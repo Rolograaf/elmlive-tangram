@@ -8,6 +8,10 @@ his git at <https://git.io/vPqZh>
 
 ![camera elm](http://www.sopuzzle.com/tangram/upload/20123/2012319223709961.jpg) [website with Tangram puzzles](http://www.sopuzzle.com/tangram/tangramTypeSelect.asp?cpage=24&order=1&recordId=5)
 
+## My personal addition:
+
+Windmill.elm which produces: ![windmill](Windmill.gif)
+
 ## commands
 
 - `git init`
